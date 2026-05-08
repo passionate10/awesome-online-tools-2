@@ -47,6 +47,7 @@
 
 ## PDF Tools
 
+- [AllPDFMagic](https://allpdfmagic.com) - 33+ free online PDF tools with AI workflows. Merge, compress, convert, sign — no signup required.
 - [ThePDF](https://the-pdf.com) - 55+ PDF tools: merge, split, compress, convert, edit.
 - [iLovePDF](https://www.ilovepdf.com) - PDF tools collection.
 - [SmallPDF](https://smallpdf.com) - PDF tools and converter.
